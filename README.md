@@ -20,7 +20,7 @@ This project utilizes Visual Studio Code to develop a Keylogger in Python. This 
 
 <p align="center">
 First step: <br/><br />
-<img src="" height="80%" width="80%" alt="SIEM Steps"/>
+<img src="" height="80%" width="80%" alt="Keylogger Steps"/>
 <br />
 <br />
 <br />
