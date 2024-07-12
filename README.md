@@ -3,18 +3,18 @@
  ### [YouTube Demonstration]()
 
 <h2>Description</h2>
-This project uses code to make a keylogger
+This project utilizes Visual Studio Code to develop a Keylogger in Python. This lab is meant to help gain insight into how certain malware might function and is in no way intended for malicious intent. The program will record user keystrokes and store them in a file to be forwarded to an email of choice.
 
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>VSCode</b> 
+- <b>Python</b> 
 
 
 <h2>Environments Used </h2>
 
-- <b>idk</b>
+- <b>Visual Studio Code</b>
 
 <h2>Project walk-through:</h2>
 
