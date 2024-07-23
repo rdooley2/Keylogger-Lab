@@ -13,7 +13,7 @@ def send_email():
     smtp_server = 'smtp.gmail.com'
     smtp_port = 587
     smtp_user = 'rdooley2003@gmail.com'
-    smtp_pass = '        '
+    smtp_pass = ''
 
     # Create the email
     msg = MIMEMultipart()
