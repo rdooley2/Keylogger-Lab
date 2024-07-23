@@ -20,7 +20,7 @@ This project utilizes Visual Studio Code to develop a Keylogger in Python. The p
 
 <p align="center">
 Import libraries that allow for email creation and keyboard functions: <br/><br />
-<img src="https://i.imgur.com/XKQ3ChE.png" height="80%" width="80%" alt="Keylogger Steps"/>
+<img src="https://i.imgur.com/WtrXHbH.png" height="80%" width="80%" alt="Keylogger Steps"/>
 <br />
 <br />
 <br />
