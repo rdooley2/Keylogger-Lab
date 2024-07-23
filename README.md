@@ -1,4 +1,4 @@
-<h1>Visual Studio Code - Keylogger Development and Analysis</h1>
+<h1>Visual Studio Code - Keylogger Development</h1>
 
  ### [YouTube Demonstration]()
 
