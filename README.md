@@ -40,7 +40,7 @@ Add an except block that deals with special characters such as tab and enter and
 <br />
 <br />
 Build the send_email function and have it store important information as variables: <br/><br />
-<img src="https://i.imgur.com/qriUmqr.png" height="80%" width="80%" alt="Keylogger Steps"/>
+<img src="https://i.imgur.com/KGRA9s2.png" height="80%" width="80%" alt="Keylogger Steps"/>
 <br />
 <br />
 <br />
