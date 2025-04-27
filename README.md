@@ -50,7 +50,7 @@ In this next part, the code defines what it should do if a key is pressed. First
 <br />
 <br />
 <br />
-The try block retrieves which character is pressed stores it in the char variable, and then writes that char variable to the file: <br/><br />
+The try block retrieves each character pressed, stores them in the char variable, and then writes that char variable to the file: <br/><br />
 <img src="https://i.imgur.com/dmZvO4u.png" height="90%" width="90%" alt="Keylogger Steps"/>
 <br />
 <br />
@@ -69,7 +69,7 @@ The last part of the code is the main function. Once the code is started it will
  
 <h2>Program demonstration:</h2>
 <p align="center">
-Outside of the code, the attacker needs to create an app password with their email account. This allows an app, VSCode for example, to send the email: <br/><br />
+Outside of the code, the attacker needs to create an app password with their email account. This password will be the smtp_pass value in the code. This allows an app, VSCode for example, to send the email: <br/><br />
 <img src="https://i.imgur.com/xILsVBE.png" height="40%" width="40%" alt="Keylogger Steps"/>
 <br />
 <br />
