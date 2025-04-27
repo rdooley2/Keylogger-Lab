@@ -1,19 +1,20 @@
 <h1>Visual Studio Code - Keylogger Development</h1>
 
- ### [YouTube Demonstration](https://youtu.be/PfVNaCxI9eE)
-
-<h2>Description</h2>
-This project utilizes Visual Studio Code to develop a Keylogger in Python. The primary objective is to gain insight into how certain malware might function, providing a hands-on understanding of its mechanics. This lab is strictly educational and is not intended for malicious use. The program records user keystrokes and writes them to a text file. Upon termination, the program sends an email with the keystrokes log file attached.
-
-
+<h2>Overview</h2>
+This project utilized Visual Studio Code to develop a Keylogger in Python. This lab is strictly educational and is not intended for malicious use. This project aimed to achieve the following goals:
+<br><br>
+<ul>
+ <li>Understand how python, or coding languages in general, can interact with our devices</li>
+ <li>Learn more about the libraries and functions python offers</li>
+ <li>Gain insight on how a keylogger functions</li>
+ <ul><li>Understanding how malware works can help professionals detect, prevent, and respond to threats</li></ul>
+</ul>
+<h2>Summary</h2>
+The program records user keystrokes and writes them to a text file. Upon termination, the program sends an email with the keystrokes log file attached.
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
-
-
-<h2>Environments Used </h2>
-
 - <b>Visual Studio Code</b>
 
 <h2>Project walk-through:</h2>
@@ -59,4 +60,7 @@ Example keystroke log after testing: <br/><br />
 <br />
 <br />
 <br />
+ 
+<h2>Program demonstration:</h2>
+ <p align="center">
 And we're done <br/><br />
