@@ -1,4 +1,4 @@
-<h1>Visual Studio Code - Keylogger Development</h1>
+<h1>Keylogger Development in Python using VSCode</h1>
 
 <h2>Overview</h2>
 This project utilized Visual Studio Code to develop a Keylogger in Python. This lab is strictly educational and is not intended for malicious use. This project aimed to achieve the following goals:
