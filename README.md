@@ -7,7 +7,7 @@ This project utilized Visual Studio Code to develop a Keylogger in Python. This 
  <li>Understand how Python, or coding languages in general, can interact with our devices</li>
  <li>Learn more about the libraries and functions Python offers</li>
  <li>Gain insight on how a keylogger functions</li>
- <ul><li>Understanding how malware works can help professionals detect, prevent, and respond to threats</li></ul>
+ <ul><li>Understand how malware works can help professionals detect, prevent, and respond to threats</li></ul>
 </ul>
 <h2>Summary</h2>
 This program records user keystrokes and writes them to a text file. Upon termination, the program emails the attacker with the keystrokes log file attached. I want to acknowledge that a keylogger has much more potential than I've coded. However, I am uncomfortable developing a fully-fledged keylogger that the whole internet can view. A normal keylogger, upon execution by an unknowing party, would establish persistence within a system. Persistence can be as simple as having the code hide itself in AppData and then creating a shortcut to itself in the Windows startup folder. It starts at machine startup and automatically sends the email at system shutdown. 
