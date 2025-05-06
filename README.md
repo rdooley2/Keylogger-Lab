@@ -1,7 +1,7 @@
 <h1>Keylogger Development in Python using VSCode</h1>
 
 <h2>Overview</h2>
-This project utilized Visual Studio Code to develop a Keylogger in Python. This lab is strictly educational and does not serve malicious use. This project aimed to achieve the following goals:
+This project utilized Visual Studio Code to develop a Keylogger in Python. This lab is strictly educational and does not serve malicious purposes. This project aimed to achieve the following goals:
 <br><br>
 <ul>
  <li>Understand how Python, or coding languages in general, can interact with our devices</li>
@@ -9,7 +9,7 @@ This project utilized Visual Studio Code to develop a Keylogger in Python. This 
  <li>Gain insight on how a keylogger functions</li>
 </ul>
 <h2>Summary</h2>
-This program records user keystrokes and writes them to a text file. Upon termination, the program emails the attacker with the keystrokes log file attached. I want to acknowledge that a keylogger has much more potential than I've coded. However, I am uncomfortable developing a fully-fledged keylogger that the whole internet can view. A normal keylogger, upon execution by an unknowing party, would establish persistence within a system. Persistence can be as simple as having the code hide itself in AppData and then creating a shortcut to itself in the Windows startup folder. It starts at machine startup and automatically sends the email at system shutdown. 
+This program records user keystrokes and writes them to a text file. Upon termination, the program emails the attacker with the keystrokes log file attached. A keylogger has much more potential than I've coded. However, I am uncomfortable developing a fully-fledged keylogger that the whole internet can view. A normal keylogger, upon execution by an unknowing party, would establish persistence within a system. Persistence can be as simple as having the code hide itself in AppData and then creating a shortcut to itself in the Windows startup folder. It starts at machine startup and automatically sends the email at system shutdown. 
 
 <h2>Languages and Utilities Used</h2>
 
