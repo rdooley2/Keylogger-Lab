@@ -19,7 +19,7 @@ This program records user keystrokes and writes them to a text file. Upon termin
 <h2>Program walk-through:</h2>
 
 <p align="center">
-In the first section, I wrote all of the import statements. Most of these are for crafting the email at shutdown:  <br/><br />
+In the first section, I wrote all of the import statements. Most of these are for crafting the email:  <br/><br />
 <img src="https://i.imgur.com/wqtLnXg.png" height="50%" width="50%" alt="Keylogger Steps"/>
 <br />
 <br />
@@ -74,7 +74,7 @@ The attacker must create an app password with their email account outside the co
 <br />
 <br />
 Next, I will start the code, navigate to Facebook, and attempt to login with a fake password (for privacy reasons): <br/><br />
-<img src="https://i.imgur.com/jEUu17C.png" height="40%" width="40%" alt="Keylogger Steps"/>
+<img src="https://i.imgur.com/otyGoAu.png" height="40%" width="40%" alt="Keylogger Steps"/>
 <br />
 <br />
 <br />
